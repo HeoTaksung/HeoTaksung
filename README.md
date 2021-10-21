@@ -4,6 +4,13 @@
 
 </div>
 
+* **Tak-Sung Heo** [(Résumé)](https://heotaksung.github.io/)
+
+  * Date of Birth: 1994.02.21.
+
+  * E-mal: gjxkrtjd221@gmail.com
+
+
 
 <!--
 **HeoTaksung/HeoTaksung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
