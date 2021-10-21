@@ -10,6 +10,8 @@
 
   * E-mal: gjxkrtjd221@gmail.com
 
+  * Interests: Natural Language Processing, Biomedical Natural Language Processing, and Deep Learning, especially about Natural Language Understanding
+
 
 
 <!--
