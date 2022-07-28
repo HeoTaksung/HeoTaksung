@@ -4,7 +4,7 @@
 
 </div>
 
-* **Tak-Sung Heo** [(Eng_Résumé)](https://heotaksung.github.io/index.html) [(Kor_Résumé)](https://heotaksung.github.io/ko_index.html)
+* **Tak-Sung Heo** [(Eng_Résumé)](https://heotaksung.github.io/index.html) [(Kor_Résumé)](https://heotaksung.github.io/ko_index.html) (***If the website does not open, please refresh button.***)
 
   * Date of Birth: 1994.02.21.
 
