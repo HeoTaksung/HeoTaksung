@@ -8,9 +8,11 @@
 
   * Date of Birth: 1994.02.21.
 
-  * E-mal: gjxkrtjd221@gmail.com
+  * E-mail: gjxkrtjd221@gmail.com
 
   * Interests: Natural Language Processing, Biomedical Natural Language Processing, and Deep Learning, especially about Natural Language Understanding
+ 
+  * Research Team: [trailerAI](https://github.com/orgs/trailerAI/repositories)
 
 
 
