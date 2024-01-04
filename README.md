@@ -12,7 +12,7 @@
 
   * Interests: Natural Language Processing, Biomedical Natural Language Processing, and Deep Learning, especially about Natural Language Understanding
  
-  * Research Team: [trailerAI](https://github.com/orgs/trailerAI/repositories)
+  * Research Team: [trailerAI](https://github.com/trailerAI)
 
 
 
